@@ -1,0 +1,17 @@
+------RESULT------
+Name: yugdeep
+roll: 8177
+------Marks------Physics: 38.0
+Chemistry: 35.0
+Mathematics: 3.0
+Grade obtained: NGPercentage: 25.33
+
+------RESULT------
+Name: shristab
+roll: 812873
+------Marks------
+Physics: 20.0
+Chemistry: 20.0
+Mathematics: 20.0
+Grade obtained: NG
+Percentage: 20.00
